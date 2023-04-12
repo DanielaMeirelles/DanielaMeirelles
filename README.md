@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DanielaMeirelles
 - 👀 I’m interested in data science, games, web desing, front-end
-- 🌱 I’m currently learning analysis and systems development 
+- 🌱 I’m currently learning Database
 - 💞️ I’m looking to collaborate on integrative project
-- 📫 How to reach me -> danielameirelles1990@gmail.com
+- 📫 How to reach me -> daniela.meirelles90@outlook.com
 
 <!---
 DanielaMeirelles/DanielaMeirelles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
