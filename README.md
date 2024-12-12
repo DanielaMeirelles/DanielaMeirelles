@@ -2,5 +2,5 @@
 - 👀 I’m interested in data science, games, web desing, front-end
 - 🌱 I’m currently learning Database
 - 💞️ I’m looking to collaborate on integrative project
-- 📫 How to reach me -> daniela.meirelles90@outlook.com
+- 📫 How to reach me -> danielameirelles1990@gmail.com
 - 💻 My favorite repository -> https://github.com/DanielaMeirelles/Portifolio_API/tree/main
